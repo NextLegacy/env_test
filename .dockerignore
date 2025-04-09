@@ -1,0 +1,10 @@
+/node_modules
+/build
+/.vscode
+/.cursor
+/.github
+README.md
+.prettierrc
+.prettierignore
+.svelte-kit
+.env

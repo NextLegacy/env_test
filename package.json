@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "dotenv": "^16.4.7",
+        "sveltekit-adapter-deno": "^0.16.1"
+    }
+}
