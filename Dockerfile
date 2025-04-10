@@ -1,3 +1,5 @@
+ARG DATABASE_URL
+
 FROM denoland/deno:alpine AS builder
 
 RUN apk add --no-cache libstdc++
